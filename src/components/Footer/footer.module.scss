@@ -1,0 +1,13 @@
+.footer {
+    background-color: #eeeeee;
+    margin-top: 3rem;
+    padding: 20px;
+
+    &-content {
+        margin: 0 auto;
+        max-width: 750px;
+        p {
+            margin-bottom: 0;
+        }
+    }
+}
