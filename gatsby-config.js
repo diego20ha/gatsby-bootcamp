@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-	title: 'Full-Stack Bootcamp',
+	title: 'Gatsby App',
 	author: 'Luis Diego Hernández Araya'
   },
   plugins: [
